@@ -1,0 +1,6 @@
+[submodule ".emacs.d/packages/hledger-mode"]
+	path = .emacs.d/packages/hledger-mode
+	url = https://github.com/narendraj9/hledger-mode.git
+[submodule ".emacs.d/packages/move-text"]
+	path = .emacs.d/packages/move-text
+	url = https://github.com/emacsfodder/move-text.git
