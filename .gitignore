@@ -1,3 +1,6 @@
 !.gitignore
+!.gitmodules
 !.emacs.d/*
+!.emacs.d/packages/*
+!.emacs.d/themes/*
 *

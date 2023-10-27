@@ -7,3 +7,6 @@
 [submodule ".emacs.d/themes/nord-theme"]
 	path = .emacs.d/themes/nord-theme
 	url = https://github.com/nordtheme/emacs.git
+[submodule ".emacs.d/packages/password-store"]
+	path = .emacs.d/packages/password-store
+	url = https://github.com/zx2c4/password-store.git
