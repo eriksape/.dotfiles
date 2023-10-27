@@ -4,3 +4,6 @@
 [submodule ".emacs.d/packages/move-text"]
 	path = .emacs.d/packages/move-text
 	url = https://github.com/emacsfodder/move-text.git
+[submodule ".emacs.d/themes/nord-theme"]
+	path = .emacs.d/themes/nord-theme
+	url = https://github.com/nordtheme/emacs.git
