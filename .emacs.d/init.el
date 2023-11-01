@@ -6,7 +6,7 @@
 ;; need to know about Emacs (what commands exist, what functions do,
 ;; what variables specify), the help system can provide.
 
-;;(package-initialize)
+(package-initialize)
 
 ;; variables
 (defvar var/default-font-size 89)
