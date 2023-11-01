@@ -53,6 +53,11 @@
 (exec-path-from-shell-initialize)
 ;;(exec-path-from-shell-copy-env "PASSWORD_STORE_DIR")
 
+;; password-store
+(add-to-list 'load-path "~/.emacs.d/packages/password-store/contrib/emacs")
+(require 'password-store)
+(setq auth-source-pass-filename "~/.local/share/gopass/stores/root")
+
 ;;; Completion framework
 (unless (package-installed-p 'vertico)
   (package-install 'vertico))
